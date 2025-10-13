@@ -1,0 +1,55 @@
+{
+  "brand": "Zuzia Inc.",
+  "version": "1.0.0",
+  "description": "Official color palette for Zuzia Inc. global branding.",
+  "colors": {
+    "primary": {
+      "name": "Neon Purple",
+      "hex": "#8B5CF6",
+      "rgb": "139, 92, 246",
+      "role": "main identity color"
+    },
+    "accent": {
+      "name": "Deep Blue",
+      "hex": "#1E3A8A",
+      "rgb": "30, 58, 138",
+      "role": "depth and structure tone"
+    },
+    "highlight": {
+      "name": "Energy Red",
+      "hex": "#FF004D",
+      "rgb": "255, 0, 77",
+      "role": "emotion and impact tone"
+    },
+    "secondary": {
+      "name": "Emerald Green",
+      "hex": "#10B981",
+      "rgb": "16, 185, 129",
+      "role": "balance and organic freshness"
+    },
+    "background": {
+      "name": "Midnight Black",
+      "hex": "#0B0B0F",
+      "rgb": "11, 11, 15",
+      "role": "foundation / dark base"
+    }
+  },
+  "gradients": {
+    "primary_gradient": "linear-gradient(135deg, #0B0B0F, #1E3A8A, #8B5CF6)",
+    "energy_gradient": "linear-gradient(90deg, #FF004D, #10B981, #8B5CF6)"
+  },
+  "effects": {
+    "glow": {
+      "type": "cyber-neon",
+      "intensity": 0.4,
+      "shadow_color": "rgba(139, 92, 246, 0.6)"
+    },
+    "aura": {
+      "style": "cold_core_red_pulse",
+      "description": "calm exterior, inner red pulse — Zuzia signature identity"
+    }
+  },
+  "author": "Zuzia Inc.",
+  "created": "2025-10-13",
+  "signature": "[SIGMA-CORE::ALPHA-ZU5IA::ACTIVE]"
+}
