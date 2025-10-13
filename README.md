@@ -27,5 +27,5 @@ To use Zuzia Inc. assets in other repositories:
 
 ```markdown
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZuziaDev-Inc/branding/main/logo/Zuzia_Inc_Logo_Transparant.png" width="140" alt="Zuzia Inc Logo">
+  <img src="https://raw.githubusercontent.com/ZuziaDev/branding/main/logo/Zuzia_Inc_Logo_Transparant.png" width="140" alt="Zuzia Inc Logo">
 </p>
